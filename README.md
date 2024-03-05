@@ -7,9 +7,10 @@
 
 ## 📈 GitHub Stats
 
-<br />
 
-<div style="flex flex-row">
-![giannistsagkaropulos Stats](https://github-readme-stats.vercel.app/api?username=giannistsagkaropoulos&show_icons=true&theme=dracula)
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=giannistsagkaropoulos&show_icons=true&locale=en&layout=compact" alt="giannistsagkaropoulos" /></p>
-</div>
+<br />
+![giannistsagkaropulos Stats](https://github-readme-stats.vercel.app/api?username=giannistsagkaropoulos&show_icons=true&theme=dracula)
+
+
