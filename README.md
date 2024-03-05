@@ -26,7 +26,12 @@
 <img align="left" alt="MD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </p>
 
+<br />
+<br />
+
 ## 📈 GitHub Stats
+
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannistsagkaropoulos&langs_count=8&layout=compact)
 ![giannistsagkaropulos Stats](https://github-readme-stats.vercel.app/api?username=giannistsagkaropoulos&show_icons=true&theme=dracula)
