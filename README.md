@@ -8,9 +8,6 @@
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannistsagkaropoulos&langs_count=8&layout=compact)
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=giannistsagkaropoulos&show_icons=true&locale=en&layout=compact" alt="giannistsagkaropoulos" /></p>
-<br />
 ![giannistsagkaropulos Stats](https://github-readme-stats.vercel.app/api?username=giannistsagkaropoulos&show_icons=true&theme=dracula)
 
 
