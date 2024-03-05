@@ -9,7 +9,7 @@
 
 <br />
 
+<div style="flex flex-row">
 ![giannistsagkaropulos Stats](https://github-readme-stats.vercel.app/api?username=giannistsagkaropoulos&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannistsagkaropoulos&langs_count=8&layout=compact&hide=TeX)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannistsagkaropoulos&show_icons=true&locale=en&layout=compact" alt="giannistsagkaropoulos" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=giannistsagkaropoulos&show_icons=true&locale=en&layout=compact" alt="giannistsagkaropoulos" /></p>
+</div>
