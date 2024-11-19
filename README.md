@@ -1,4 +1,4 @@
-<h1 ">Hi 👋, I'm Giannis Tsagkaropoulos</h1>
+<h1 ">Hi 👋, I'm Ioannis Tsagkaropoulos</h1>
 <p>Addicted to crafting solving mathematical puzzles and elegant designs. Passionate about frontend development, data visualization, and inspiring others to embark on a journey of learning and innovation. Let's collaborate and build something amazing together!</p>
 
 ## 🛠️ Languages and Tools
