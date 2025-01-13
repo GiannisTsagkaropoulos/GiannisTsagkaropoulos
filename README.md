@@ -33,5 +33,5 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannistsagkaropoulos&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannistsagkaropoulos&langs_count=8&layout=donut)
 ![giannistsagkaropulos Stats](https://github-readme-stats.vercel.app/api?username=giannistsagkaropoulos&show_icons=true&theme=dracula)
